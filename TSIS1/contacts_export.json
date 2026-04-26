@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Yesimkhan",
+        "surname": "Bekbossyn",
+        "email": "esimkhanbekbosin@gmail.com",
+        "birthday": "2007-12-27",
+        "group": "me",
+        "phones": [
+            {
+                "phone": "87775932007",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Ramazan",
+        "surname": "Kassymbek",
+        "email": "roma@gmail.com",
+        "birthday": "2007-09-13",
+        "group": "friend",
+        "phones": [
+            {
+                "phone": "87075554433",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Dias",
+        "surname": "Shynazbek",
+        "email": "dias@company.com",
+        "birthday": "2005-01-10",
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "87273334455",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "name": "Madiyar",
+        "surname": "Yergaliev",
+        "email": "madik@gmail.com",
+        "birthday": "2008-04-24",
+        "group": "friend",
+        "phones": [
+            {
+                "phone": "87775258865",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Adilet",
+        "surname": "Shynbolat",
+        "email": "adiletzan@company.com",
+        "birthday": "2007-08-04",
+        "group": "work",
+        "phones": [
+            {
+                "phone": "87779990717",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "name": "Yersultan",
+        "surname": "Aidarali",
+        "email": "yers@gmail.com",
+        "birthday": "2008-03-08",
+        "group": "work",
+        "phones": [
+            {
+                "phone": "87704569872",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "name": "Batyr",
+        "surname": "Bekzat",
+        "email": "beka@gmail.com",
+        "birthday": "2007-12-06",
+        "group": "work",
+        "phones": [
+            {
+                "phone": "87072596431",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Aidar",
+        "surname": "Bekzhan",
+        "email": "aidarbek@gmail.com",
+        "birthday": "2008-08-16",
+        "group": "friend",
+        "phones": [
+            {
+                "phone": "87005648978",
+                "type": "mobile"
+            }
+        ]
+    }
+]
